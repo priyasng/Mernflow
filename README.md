@@ -1,5 +1,7 @@
 # Mern-Stack
 
+FULL STACK WEB DEVELOPMENT PROJECT
+
 * Used HTML, CSS ,JavaScript ,React, Nodejs, Microsoft SQL for database deployment, GitHub API, ,Redux for state
   management , Axios for sending http request to the backend, CRVD operation using MongooseJS, Json web tokens
   for authentication, Netify for deploying the front-end, Heroku for deploying the backend .
