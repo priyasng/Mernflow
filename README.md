@@ -1,6 +1,8 @@
-# Mern-Stack
+# Mern-StacK
 
-FULL STACK WEB DEVELOPMENT PROJECT
+MAJOR PROJECT
+
+FULL STACK WEB DEVELOPMENT
 
 * Used HTML, CSS ,JavaScript ,React, Nodejs, Microsoft SQL for database deployment, GitHub API, ,Redux for state
   management , Axios for sending http request to the backend, CRVD operation using MongooseJS, Json web tokens
