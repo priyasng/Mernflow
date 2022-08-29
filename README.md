@@ -15,6 +15,7 @@
 
 ## Deployed On:
    Netlify for front-end
+   
    Heroku for back-end
 
 
