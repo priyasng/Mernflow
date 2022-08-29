@@ -1,23 +1,22 @@
 
+#### This is basically Ongoing Mern Stack project - Website that features questions and answers on a wide range of topics in computer programming .
 
 
-Tech Stack Used:
+# Tech Stack Used:
 
-Frontend:
-React,React Router,Redux
+## Frontend:
+   React,React Router,Redux
 
-Backend:
-Node.js,Express.js
+## Backend:
+   Node.js,Express.js
 
-Cloud Storage:
-Microsoft SQL
+## Cloud Storage:
+   Microsoft SQL
 
-Deployed On:
-Netlify for front-end
-Heroku for back-end
+## Deployed On:
+   Netlify for front-end
+   Heroku for back-end
 
 
 
-* Website that features questions and answers on a wide range of topics in computer programming
-
-* I'll add more functionalities in this project.
+## I'll add more functionalities in this project.
