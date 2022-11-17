@@ -1,6 +1,5 @@
 
-#### This is basically Ongoing Mern Stack project - Website that features questions and answers on a wide range of topics in computer programming having similarities like stackoverflow website.
-
+#### This is basically Ongoing Mern Stack project
 
 # Tech Stack Used:
 
